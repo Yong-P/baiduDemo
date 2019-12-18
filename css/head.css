@@ -1,0 +1,29 @@
+*{
+	padding: 0;
+	margin: 0;
+}
+#head{
+	position: relative;
+	left: 0px;
+	height: 100px;
+}
+.ul{
+	position: absolute;
+	height: 25px;
+	right: 0;
+}
+.list{
+	line-height: 25px;
+	margin-left: 10px;
+	color: black;
+}
+.button{
+	width: 80px;
+	float: right;
+	margin-left: 10px;
+	color: white;
+	line-height: 25px;
+	background-color: royalblue;
+	border-bottom: 1px solid royalblue;
+	text-decoration: none;
+}

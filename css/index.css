@@ -1,0 +1,33 @@
+#index{
+	position: relative;
+	height: 200px;
+	text-align: center;
+}
+.logo{
+	align-content: center;
+}
+.seach{
+	position: relative;
+	text-align: center;
+	width: 500px;
+	height: 36px;
+	border: 1px solid #4169E1;
+	background-color: grey;
+	
+}
+.input{
+	width: 400px;
+	height: 36px;
+}
+.submit_bg{
+	width: 100px;
+	height: 36px;
+	text-align: center;
+	background: #3385ff;
+}
+.submit{
+	width: 100px;
+	height: 36px;
+	text-align: center;
+	background: #3385ff;
+}
