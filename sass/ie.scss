@@ -3,3 +3,30 @@
  * <!--[if IE]>
  *   <link href="/stylesheets/ie.css" media="screen, projection" rel="stylesheet" type="text/css" />
  * <![endif]--> */
+$a-color: #333; // 顶部a标签默认颜色。
+$a-font-size:13px;
+$a-font-weight:700;
+*{
+	padding: 0;
+	margin: 0;
+}
+#head{
+	position: relative;
+	left: 0px;
+	height: 100px;
+}
+.ul{
+	position: absolute;
+	top: 15px;
+	height: 25px;
+	right: 0;
+}
+.list{
+	line-height: 24px;
+	margin-left: 10px;
+	color: $a-color;
+	font-size: $a-font-size;
+	font-weight: $a-font-weight;
+}
+
+

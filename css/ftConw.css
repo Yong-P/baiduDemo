@@ -1,5 +1,9 @@
-#ftConw{
+#ftCon{
+	position: relative;
+	width: 100%;
 	text-align: center;
+}
+#ftConw{
 	color: #999;
 }
 #ftConw a{
@@ -7,4 +11,43 @@
 	color: #999;
 	cursor: pointer;
 	font: 12px arial;
+}
+#ftConw #lh a{
+	line-height: 22px;
+	margin-left: 25px;
+}
+#ftConw #lh span{
+	text-align: center;
+	color: #999;
+	font: 12px arial;
+	line-height: 22px;
+}
+#ftConw p{
+	color: #999;
+	font: 12px arial;
+	line-height: 22px;
+}
+
+.icon_icp {
+	position: relative;
+	top: 3px;
+	width: 14px;
+	height: 17px;
+	display: inline-block;
+	background: url(https://dss1.bdstatic.com/5eN1bjq8AAUYm2zgoY3K/r/www/cache/static/protocol/https/global/img/icons_441e82f.png) no-repeat;
+	background-position: -600px -96px;
+}
+.icon_jgwab{
+	position: relative;
+	top: 3px;
+	width: 14px;
+	height: 17px;
+	display: inline-block;
+	overflow: hidden;
+	background: url(https://dss1.bdstatic.com/5eN1bjq8AAUYm2zgoY3K/r/www/cache/static/protocol/https/global/img/icons_441e82f.png) no-repeat;
+	_background-image: url(https://dss1.bdstatic.com/5eN1bjq8AAUYm2zgoY3K/r/www/cache/static/protocol/https/global/img/icons_d5b04cc.gif);
+	background-position: -623px -96px;
+}
+#jgwab{
+	margin-left: 19px;
 }

@@ -1,9 +1,53 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="13447ffc-d929-4dee-9395-504c76ec236e" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.sass-cache/d0842a7c90680fc4eb22921db48d03bdbd45d893/ie.scssc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.sass-cache/d0842a7c90680fc4eb22921db48d03bdbd45d893/print.scssc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.sass-cache/d0842a7c90680fc4eb22921db48d03bdbd45d893/screen.scssc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/js/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/js/moment.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/ftConw.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/ftConw.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/head.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/head.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/index.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/index.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/qrcodeCon.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/qrcodeCon.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sass/ie.scss" beforeDir="false" afterPath="$PROJECT_DIR$/sass/ie.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/stylesheets/ie.css" beforeDir="false" afterPath="$PROJECT_DIR$/stylesheets/ie.css" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
   <component name="ProjectId" id="1V9cn6nM0YtEaGys5x1II0LRtEO" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="改进页面排版，熟悉sass操作，巩固JS相关知识；es5和es6的区别" />
+    <option name="LAST_COMMIT_MESSAGE" value="改进页面排版，熟悉sass操作，巩固JS相关知识；es5和es6的区别" />
   </component>
 </project>
